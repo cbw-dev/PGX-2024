@@ -1,9 +1,4 @@
-## CBW WORKSHOP YEAR
+## CBW Pharmacogenomics Data Analysis 2024
 
-[Workshop Website](YOUR WORKSHOP URL HERE)
+[Workshop Website](https://bioinformaticsdotca.github.io/PGX_2024/)
 
-CITY, PROVINCE(S)  
-Instructors: INSTRUCTOR NAMES  
-TAs: TA NAMES
-
-OUTLINE HERE
